@@ -1,6 +1,6 @@
-// Titik.java 22/02/23
+// MTitik.java 22/02/23
 // Penulis : Rizky Akhmad Fahreza
-// Deskripsi : Kelas yang berisi atribut dari objek titik
+// Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas titik
 
 class MTitik{
 	public static void main(String[] args){

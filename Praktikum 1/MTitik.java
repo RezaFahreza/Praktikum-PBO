@@ -1,3 +1,7 @@
+// Titik.java 22/02/23
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Kelas yang berisi atribut dari objek titik
+
 class MTitik{
 	public static void main(String[] args){
 		Titik t1 = new Titik();

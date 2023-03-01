@@ -1,3 +1,7 @@
+// Titik.java 22/02/23
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Kelas yang berisi atribut dari objek titik
+
 class Titik{
 	double absis;
 	double ordinat;

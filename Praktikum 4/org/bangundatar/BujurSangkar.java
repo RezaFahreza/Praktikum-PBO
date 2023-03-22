@@ -1,4 +1,4 @@
-// BujurSangkar.java 01/03/22
+// BujurSangkar.java 22/03/22
 // Penulis : Rizky Akhmad Fahreza
 // Deskripsi : Kelas Bujur Sangkar dengan Konstruktor dan Methodnya
 

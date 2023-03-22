@@ -1,3 +1,7 @@
+// MPoligon.java 22/03/22
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Program utama kelas Poligon
+
 package org.main;
 
 import org.bangundatar.*;

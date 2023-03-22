@@ -1,3 +1,7 @@
+// PersegiPanjang.java 22/03/22
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Kelas Persegi Panjang dengan Konstruktor dan Methodnya
+
 package org.bangundatar;
 
 import org.poligon.Poligon;

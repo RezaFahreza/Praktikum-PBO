@@ -1,3 +1,7 @@
+// Kubus.java 22/03/22
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Kelas Kubus dengan Konstruktor dan Methodnya
+
 package org.bangunruang;
 
 import org.bangundatar.BujurSangkar;

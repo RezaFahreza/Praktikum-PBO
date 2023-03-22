@@ -1,3 +1,7 @@
+// Poligon.java 22/03/22
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Kelas Poligon dengan Konstruktor dan Methodnya
+
 package org.poligon;
 
 public class Poligon {

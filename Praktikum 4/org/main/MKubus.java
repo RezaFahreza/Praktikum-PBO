@@ -1,3 +1,7 @@
+// MKubus.java 22/03/22
+// Penulis : Rizky Akhmad Fahreza
+// Deskripsi : Program utama dari kelas Kubus
+
 package org.main;
 
 import org.bangunruang.Kubus;
